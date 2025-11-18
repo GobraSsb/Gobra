@@ -1,6 +1,6 @@
 body {
   background-image: url('https://wallpapercave.com/wp/wp11861991.jpg');
-  background-size: cover;         /* cubre toda la pantalla */
-  background-position: center;    /* centra la imagen */
-  background-repeat: no-repeat;   /* la imagen no se repite */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }

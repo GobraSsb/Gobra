@@ -5,23 +5,5 @@ body {
   background-position: center;  
   background-repeat: no-repeat;
   background-attachment: fixed; 
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  color: white; 
 }
 
-
-.contenido {
-  display: flex;
-  align-items: flex-start;
-  gap: 20px;
-  padding: 20px;
-}
-
-
-.imagen-izquierda img {
-  width: 300px;
-  height: auto;
-  border-radius: 8px;
-}
